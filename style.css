@@ -153,7 +153,8 @@ table, th, td {
 
 .footer{
     margin-top: 10%;
-
+    background-color: #000;
+    color: #fff;
     padding-left: 50%;
     font-weight: bolder;
     font-size: 1.5em;
